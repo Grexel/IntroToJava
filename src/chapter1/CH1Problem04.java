@@ -6,7 +6,7 @@
 package chapter1;
 
 /**
- *
+ * Print a table
  * @author JeffreyMiller
  */
 public class CH1Problem04 {
